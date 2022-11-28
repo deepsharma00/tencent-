@@ -1,0 +1,2 @@
+# tencent-
+subdomain takeover 
